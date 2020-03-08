@@ -9,7 +9,9 @@ export const Room = () => {
             <Banner title='Nuestras habitaciones'>
                 <Link to="/" className="btn-primary">
                     Volver a home
+                
                 </Link>
+                
             </Banner>
         </Hero>
     )
